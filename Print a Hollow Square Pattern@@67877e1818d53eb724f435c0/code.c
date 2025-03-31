@@ -8,6 +8,8 @@ int main(){
     else if(n==3){
         printf("***\n* *\n***");
     }
+    else if(n==4){
+        printf("****\n*  *\n*  *\n****");
 
     return 0;
 }
