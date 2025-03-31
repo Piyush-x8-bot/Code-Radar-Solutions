@@ -10,6 +10,6 @@ int main(){
     }
     else if(n==4){
         printf("****\n*  *\n*  *\n****");
-
+    }
     return 0;
 }
