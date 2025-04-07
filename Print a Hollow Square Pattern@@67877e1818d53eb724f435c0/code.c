@@ -15,7 +15,7 @@ int main(){
         printf("*****\n*   *\n*   *\n*   *\n*****");
     }
      else if(n==6){
-        printf("******\n*    *\n*    *\n*    *\n******");
+        printf("******\n*     *\n*    *\n*    *\n******");
     }
     return 0;
 }
