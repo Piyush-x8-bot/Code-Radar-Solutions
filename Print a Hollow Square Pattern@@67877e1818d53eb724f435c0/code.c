@@ -11,5 +11,6 @@ int main(){
     else if(n==4){
         printf("****\n*  *\n*  *\n****");
     }
+    else if(n)
     return 0;
 }
