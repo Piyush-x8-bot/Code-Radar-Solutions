@@ -12,7 +12,7 @@ int main(){
         printf("****\n*  *\n*  *\n****");
     }
     else if(n==5){
-        printf("*****\n*   *\n*   *\n*   *\n*****")
+        printf("*****\n*   *\n*   *\n*   *\n*****");
     }
     return 0;
 }
